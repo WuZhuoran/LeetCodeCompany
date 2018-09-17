@@ -19,3 +19,10 @@ If **nums** = `[1,2,2]`, a solution is:
   []
 ]
 ```
+
+## Solution
+
+* HashSet
+
+* backtrack    
+  Sort -> list add -> for loop -> skip duplicate -> temp add -> bt -> temp remote top.
