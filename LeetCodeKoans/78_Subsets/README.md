@@ -21,3 +21,10 @@ If ***nums*** = `[1,2,3]`, a solution is:
   []
 ]
 ```
+
+## Solution
+
+* Use Arrays
+
+* backtrack     
+  Add list -> for loop -> temp.add -> bt -> remote top.
